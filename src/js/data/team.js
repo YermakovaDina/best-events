@@ -66,7 +66,7 @@ export default [
     secondName: 'Yermakova',
     position: 'Developer',
     photo: img6,
-    linkedIn: 'https://www.linkedin.com/in/dina-yermakova-6aa94020b/',
+    linkedIn: 'https://www.linkedin.com/in/dina-yermakova/',
     gitHub: 'https://github.com/YermakovaDina',
     telegram: 'https://t.me/dina_yermakova',
 
